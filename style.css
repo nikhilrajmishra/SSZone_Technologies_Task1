@@ -1,0 +1,242 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    min-height: 100vh;
+    background-image: url(developer.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background h1:hover {
+    color: darkorange;
+}
+
+.background p:hover {
+    color: darkorange;
+}
+
+.background h1 {
+    padding-top: 24px;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    word-spacing: 9px;
+}
+
+.background p {
+    color: white;
+    justify-content: center;
+    text-align: center;
+    word-spacing: 4px;
+}
+
+.tag h1:hover {
+    color: darkorange;
+}
+
+.tag h1 {
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    font-size: xx-large;
+    word-spacing: 11px;
+    justify-content: center;
+    text-align: center;
+    height: 60px;
+    padding-top: 17px;
+}
+
+.container1 {
+    margin-left: 35px;
+    height: 470px;
+    width: 260px;
+    background-color: rgb(239, 236, 236);
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.container1:hover {
+    background: rgba(0, 0, 0, 0.595);
+}
+
+.container1 .imgg:hover {
+    border-radius: 50%;
+}
+
+.container1 h2:hover {
+    color: darkorange;
+}
+
+.container1 p:hover {
+    color: darkorange;
+}
+
+.container2 {
+    margin-left: 35px;
+    height: 470px;
+    width: 260px;
+    background-color: rgb(239, 236, 236);
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.container2:hover {
+    background: rgba(0, 0, 0, 0.595);
+}
+
+.container2 .imgg:hover {
+    border-radius: 50%;
+}
+
+.container2 h2:hover {
+    color: darkorange;
+}
+
+.container2 p:hover {
+    color: darkorange;
+}
+
+.container3 {
+    margin-left: 35px;
+    height: 470px;
+    width: 260px;
+    background-color: rgb(239, 236, 236);
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.container3:hover {
+    background: rgba(0, 0, 0, 0.595);
+}
+
+.container3 .imgg:hover {
+    border-radius: 50%;
+}
+
+.container3 h2:hover {
+    color: darkorange;
+}
+
+.container3 p:hover {
+    color: darkorange;
+}
+
+.container4 {
+    margin-left: 35px;
+    height: 500px;
+    width: 280px;
+    background-color: rgb(239, 236, 236);
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.container4:hover {
+    background: rgba(0, 0, 0, 0.595);
+}
+
+.container4 .imgg:hover {
+    border-radius: 50%;
+}
+
+.container4 h2:hover {
+    color: darkorange;
+}
+
+.container4 p:hover {
+    color: darkorange;
+}
+
+.imgg {
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+}
+
+.container1 h2 {
+    margin-left: 13px;
+}
+
+.container2 h2 {
+    margin-left: 13px;
+}
+
+.container3 h2 {
+    margin-left: 13px;
+}
+
+.container4 h2 {
+    margin-left: 13px;
+}
+
+.container1 p {
+    margin-left: 13px;
+}
+
+.container2 p {
+    margin-left: 13px;
+}
+
+.container3 p {
+    margin-left: 13px;
+}
+
+.container4 p {
+    margin-left: 13px;
+}
+
+.Sec4 {
+    background-color: darkolivegreen;
+    color: white;
+    width: 50%;
+    height: 100px;
+    display: inline-block;
+}
+
+/* .sec4 h2:hover{
+    color: darkorange;
+}
+.sec4 p:hover{
+    color: darkorange;
+}
+.sec4:hover{
+    border: 3px solid black;
+} */
+.Sec5 {
+    background-color: brown;
+    color: white;
+    max-width: 49.6%;
+    height: 100px;
+    display: inline-block;
+}
+
+/* .sec5 h2:hover{
+    color: darkorange;
+}
+.sec4 p:hover{
+    color: darkorange;
+} */
+.sec6 {
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    font-size: xx-large;
+    word-spacing: 11px;
+    justify-content: center;
+    text-align: center;
+    height: 60px;
+    padding-top: 17px;
+}
+
+.sec6 footerlogo {
+    height: 30px;
+    width: 30px;
+
+}
